@@ -1,6 +1,5 @@
 node_modules
 deploy.sh
 .vuepress/dist
-public
 
 .DS_Store
